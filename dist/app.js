@@ -1641,8 +1641,8 @@ var el = React.DOM,
                 }, el.img({
                     src: "try-me.PNG",
                     style: {
-                        maxWidth: "250px",
-                        width: "60%"
+                        maxWidth: "200px",
+                        width: "10000%"
                     }
                 })))
         }
