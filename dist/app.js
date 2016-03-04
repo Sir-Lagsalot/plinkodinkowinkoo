@@ -213,30 +213,30 @@ function connectToChatServer() {
         })
 }
 var helpers = {};
-new buzz.sound("/plinko/sounds/hit", {
+new buzz.sound("sounds/hit", {
     formats: ["ogg"]
-}), new buzz.sound("plinko/sounds/knock", {
+}), new buzz.sound("sounds/knock", {
     formats: ["mp3"]
-}), new buzz.sound("/plinko/sounds/ping", {
+}), new buzz.sound("sounds/ping", {
     formats: ["mp3"]
 });
 var sounds = {
         playHit: function() {
-            var e = new buzz.sound("/plinko/sounds/hit", {
+            var e = new buzz.sound("sounds/hit", {
                 formats: ["ogg"],
                 volume: 8
             });
             e.play()
         },
         playMiss: function() {
-            var e = new buzz.sound("/plinko/sounds/knock", {
+            var e = new buzz.sound("sounds/knock", {
                 formats: ["mp3"],
                 volume: 48
             });
             e.play()
         },
         puckPing: function() {
-            var e = new buzz.sound("/plinko/sounds/ping", {
+            var e = new buzz.sound("sounds/ping", {
             formats: ["mp3"],
             volume: 18
         });
