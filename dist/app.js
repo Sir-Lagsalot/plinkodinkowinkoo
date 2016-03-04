@@ -1639,7 +1639,7 @@ var el = React.DOM,
                 "" : el.div({
                     className: "text-center"
                 }, el.img({
-                    src: "plinkodinkowinko/try-me.PNG",
+                    src: "try-me.PNG",
                     style: {
                         maxWidth: "300px",
                         width: "100%"
