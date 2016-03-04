@@ -1642,7 +1642,7 @@ var el = React.DOM,
                     src: "try-me.PNG",
                     style: {
                         maxWidth: "250px",
-                        width: "80%"
+                        width: "60%"
                     }
                 })))
         }
