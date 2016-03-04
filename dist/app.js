@@ -238,9 +238,9 @@ var sounds = {
         puckPing: function() {
             var e = new buzz.sound("sounds/ping", {
             formats: ["mp3"],
-            volume: 18
-        });
-        e.play()
+            volume: 10
+            });
+            e.play()
         }
     },
     socket, generateId = function() {
@@ -503,7 +503,7 @@ var payoutQuery = function() {
                 };
             t._group.animate("top", "+=25.5", {
                 easing: a,
-                lol: setTimeout(sounds.puckPing(), 700),
+                lol: setTimeout(sounds.puckPing(), 7000),
                 onComplete: function() {
                     o()
                 }
