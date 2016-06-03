@@ -781,7 +781,7 @@ var worldStore = new Store({
                 ]
             },
             showPayoutEditor: !1,
-            bankroll: 15e9,
+            bankroll: 7e10,
             wager: {
                 str: initWagerNum.toString(),
                 num: initWagerNum,
