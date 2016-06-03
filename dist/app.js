@@ -312,7 +312,7 @@ config.levels = config.n - 1, config.table_height = config.top_margin + config.l
     2 * config.side_margin + config.n * config.puck_diameter + config.n *
     config.peg_diameter, config.mp_api_uri = "https://api.moneypot.com", config
     .mp_browser_uri = "https://www.moneypot.com", config.app_id = 841, config.redirect_uri =
-    "https://cancerbola.github.io/plinko/", config.chat_uri =
+    "https://cancerbola.github.io/plinkodinkowinko/", config.chat_uri =
     "https://a-chat-server.herokuapp.com", helpers.isValidPayout = function() {
         var e = /^(\d\.\d{0,2})$|^(\d\d\.\d{0,1})$|^(\d{1,3})$/;
         return function(t) {
