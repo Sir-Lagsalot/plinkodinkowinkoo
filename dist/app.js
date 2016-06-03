@@ -260,7 +260,7 @@ var sounds = {
         side_margin: 0,
         payTableFontSize: 15,
         payTableRowHeight: 20,
-        app_id: 841,
+        app_id: 1231,
         
         mp_api_uri: "https://api.moneypot.com",
         mp_browser_uri: "https://www.moneypot.com",
