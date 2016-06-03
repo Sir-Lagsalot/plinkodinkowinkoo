@@ -264,7 +264,7 @@ var sounds = {
         
         mp_api_uri: "https://api.moneypot.com",
         mp_browser_uri: "https://www.moneypot.com",
-        redirect_uri: "https://cancerbola.github.io/plinko/",
+        redirect_uri: "https://cancerbola.github.io/plinkodinkowinko/",
         recaptcha_sitekey: "6LcTSxQTAAAAAIprLmflkjlgHbhlTGNS6OQlmN2z",
         chat_uri: "https://localhost:4000",
         hexColors: {
