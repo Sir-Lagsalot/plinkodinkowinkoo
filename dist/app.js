@@ -223,8 +223,8 @@ var sounds = {
         app_id: 1231,
         mp_api_uri: "https://api.moneypot.com",
         mp_browser_uri: "https://www.moneypot.com",
-        redirect_uri: "https://cancerbola.github.io/plinkodinkowinko/",
-        recaptcha_sitekey: "6LcTSxQTAAAAAIprLmflkjlgHbhlTGNS6OQlmN2z",
+        redirect_uri: "https://sir-lagsalot.github.io/plinkodinkowinko/",
+        recaptcha_sitekey: "6LegSxETAAAAAGhXcAA_7nTfGja7jybvz8Uyi8MD",
         chat_uri: "https://localhost:4000",
         hexColors: {
             fade: {
